@@ -1,0 +1,53 @@
+O que é uma Tabela Verdade? 
+
+A tabela verdade é uma ferramenta usada na álgebra booleana para representar os possíveis valores de uma expressão lógica. Ela mostra todas as combinações de entrada e suas respectivas saídas, facilitando o entendimento das operações lógicas.  
+
+A álgebra booleana possui três operações básicas:  
+1. OR (Disjunção)  
+Essa operação é executada com duas variáveis booleanas. A saída será 0 apenas quando ambos os operandos forem 0. Caso contrário, será 1  
+
+Exemplo:
+- Se \( A = 1 \) e \( B = 1 \) → \( R = 1 \)  
+- Se \( A = 1 \) e \( B = 0 \) → \( R = 1 \)  
+- Se \( A = 0 \) e \( B = 0 \) → \( R = 0 \)  
+
+Por que isso ocorre?
+Pense assim: basta que uma das opções seja verdadeira para o resultado ser verdadeiro. Se dissermos "vou sair se fizer sol ou se eu ganhar um presente", basta que uma dessas condições ocorra para que a saída seja verdadeira.  
+
+2. AND (Conjunção)  
+Essa operação também é executada com duas variáveis booleanas. A saída será 1 apenas se ambos os valores forem 1. Caso contrário, será 0.  
+
+Exemplo:  
+- Se \( A = 1 \) e \( B = 1 \) → \( R = 1 \)  
+- Se \( A = 1 \) e \( B = 0 \) → \( R = 0 \)  
+- Se \( A = 0 \) e \( B = 0 \) → \( R = 0 \)  
+
+Por que isso ocorre?
+Somente quando as duas condições forem verdadeiras o resultado será verdadeiro. Pense no chuveiro elétrico: para a água sair quente, tanto a água quanto a eletricidade precisam estar ligadas.  
+
+3. NOT (Negação)  
+Essa operação é executada com apenas uma variável. Ela inverte o valor lógico da entrada:  
+- Se o valor for 1, ele é convertido para 0.  
+- Se o valor for 0, ele é convertido para 1.  
+
+Exemplo:
+- Se \( A = 1 \) → \( R = 0 \)  
+- Se \( A = 0 \) → \( R = 1 \)  
+
+Por que isso ocorre
+Pense assim: se a porta está trancada, então não está destrancada. Se a porta não está trancada, então está destrancada.  
+
+---
+
+A Aplicação da Álgebra Booleana
+Por muito tempo, a álgebra booleana permaneceu sem uma aplicação prática. No entanto, o matemático americano Claude Shannon percebeu que ela poderia ser utilizada na implementação de circuitos eletrônicos. As variáveis binárias (0 e 1) poderiam representar sinais de tensão "Baixa" e "Alta" ou estados "Ligado" e "Desligado".  
+
+Essa simples ideia levou ao desenvolvimento da eletrônica digital, que foi essencial para a construção de circuitos lógicos e, consequentemente, dos computadores modernos.  
+
+Com isso, surgiram novas operações além das básicas, tais como:  
+NAND(Negação do AND)  
+NOR(Negação do OR)  
+XOR(Ou exclusivo)  
+XNOR(Negação do XOR)  
+
+Essas operações são fundamentais na construção de processadores, memórias e sistemas digitais, sendo utilizadas até hoje na computação e na eletrônica. 
