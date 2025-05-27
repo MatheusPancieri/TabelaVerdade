@@ -1,0 +1,21 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+.DS_Store
+
+# Logs e bancos de dados temporários
+*.log
+*.sqlite3
