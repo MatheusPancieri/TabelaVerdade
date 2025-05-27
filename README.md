@@ -1,4 +1,3 @@
-````markdown
 # Calculadora de Tabela Verdade
 # Projeto da disciplina Matemática discreta feita pelos alunos 
 # Matheus Pancieri Preza da Silva - ra193282
