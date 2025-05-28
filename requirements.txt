@@ -1,2 +1,2 @@
-streamlit==1.24.1  # ou a versão que você usa
-pandas==2.0.3      # ou a versão que você usa
+streamlit==1.24.1  #streamlit
+pandas==2.0.3      #pandas
