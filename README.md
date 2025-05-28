@@ -33,7 +33,7 @@ Este projeto é uma calculadora interativa de tabelas verdade para expressões l
    ```bash
    git clone https://github.com/SeuUsuario/SeuRepositorio.git
    cd SeuRepositorio
-``
+
 
 2. Crie e ative um ambiente virtual (recomendado):
 
