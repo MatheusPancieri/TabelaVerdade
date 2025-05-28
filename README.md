@@ -1,8 +1,13 @@
 # Calculadora de Tabela Verdade
-## Projeto da disciplina Matemática discreta feita pelos alunos 
--> Matheus Pancieri Preza da Silva - ra193282 
--> Fabrício Marques De Souza - ra196892 
--> Ary Correa Coelho - ra194240 
+
+
+## Projeto da disciplina Matemática Discreta
+
+Desenvolvido pelos alunos:
+
+- **Matheus Pancieri Preza da Silva** – RA 193282  
+- **Fabrício Marques De Souza** – RA 196892  
+- **Ary Correa Coelho** – RA 194240
 
 Este projeto é uma calculadora interativa de tabelas verdade para expressões lógicas proposicionais, desenvolvida em Python usando Streamlit.
 
